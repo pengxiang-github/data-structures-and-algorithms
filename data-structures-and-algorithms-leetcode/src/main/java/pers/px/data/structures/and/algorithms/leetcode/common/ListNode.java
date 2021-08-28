@@ -1,4 +1,4 @@
-package pers.px.algorithms.leetcode.common;
+package pers.px.data.structures.and.algorithms.leetcode.common;
 
 /**
  * @Author : pengxiang
